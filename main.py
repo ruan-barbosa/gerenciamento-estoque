@@ -1,0 +1,1 @@
+print("Sistema de Gestão Hospitalar Iniciado")
