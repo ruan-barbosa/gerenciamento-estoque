@@ -1,1 +1,1 @@
-print("Sistema de Gestão Hospitalar Iniciado")
+print("Sistema de Gerenciamento de Estoque Iniciado")
